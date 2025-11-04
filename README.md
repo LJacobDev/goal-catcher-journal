@@ -1,2 +1,2 @@
-# GoalCatcher Journal
+# Goal Catcher Journal
 
